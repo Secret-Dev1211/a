@@ -1,4 +1,4 @@
-# private-sc
+# SCRIPT PRIVATE
 
 ### INSTALL SCRIPT :
 

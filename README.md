@@ -15,10 +15,10 @@
 
 <details>
   <summary>Check it</summary>
-  ```
+
   - Created By  : WildyDev
   - Modified By : Munz1211
-  ```
+
 </details>
 
 ### PORT INFO : 
@@ -35,8 +35,9 @@
 - VMESS NONTLS : 80
 - VLESS NONTLS : 80
 
-=> OVPN
-- OVPN TCP 1194
+=> OPEN VPN PORT
+- OPEN VPN TCP : 1194
+- OPEN VPN UDP : 1195
 ```
 
 ### License : 
